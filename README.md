@@ -16,7 +16,14 @@ A RESTful API to fetch the latest videos from YouTube for a given search query a
 ## Current Predefined Query
 ### Tea 
 ## Setup
-Clone the repository:
+### Clone the repository:
+```shell
+$ git clone https://github.com/[your_github_username]/assignment-fampay.git`
+
+$ cd assignment-fampay
+
+$ docker-compose up
+```
 
 ## Also you can run the application locally using the following commands
 ```make 
@@ -26,13 +33,8 @@ $ make build
 
 $ make run
 ```
-```shell
-$ git clone https://github.com/[your_github_username]/assignment-fampay.git`
 
-$ cd assignment-fampay
 
-$ docker-compose up
-```
 
 The API will be available at http://localhost:8080/
 
