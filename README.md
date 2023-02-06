@@ -18,6 +18,14 @@ A RESTful API to fetch the latest videos from YouTube for a given search query a
 ## Setup
 Clone the repository:
 
+## Also you can run the application locally using the following commands
+```make 
+$ make clean`
+
+$ make build
+
+$ make run
+```
 ```shell
 $ git clone https://github.com/[your_github_username]/assignment-fampay.git`
 
