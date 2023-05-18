@@ -1,4 +1,4 @@
-# Fampay Assignment
+# YouTube-Video-Crawler-and-Search
 
 A RESTful API to fetch the latest videos from YouTube for a given search query and store them in a database. The API allows users to access the stored videos in a paginated response sorted in descending order of their publishing date-time.
 
